@@ -1,5 +1,5 @@
 <?php 
-    $servername = "localhost";
+    $servername = "172.17.163.193";
     $username = "root";
     $password = "";
     $dbname = "trote_banco";
